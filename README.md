@@ -1,6 +1,4 @@
 # abogoboga
-awokwokwok
-
 Nama  : Lucky Dio Candra Prunama
 Kelas : X RPL 1
 Absen : 26
